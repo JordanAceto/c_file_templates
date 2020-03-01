@@ -75,7 +75,7 @@ const uint16_t SOME_CONSTANT_ui16 = 42;
 
 /*
 --| NAME: some_variable_ui16
---| DESCRIPTION: an arbitrary variable a demo
+--| DESCRIPTION: an arbitrary variable as a demo
 --| TYPE: uint16_t
 */
 uint16_t some_variable_ui16 = 42;
