@@ -33,7 +33,7 @@
 
 /*
 --| NAME: SOME_DEFINITION
---| DESCRIPTION: an arbitrary definitionas a demo
+--| DESCRIPTION: an arbitrary definitionas as a demo
 --| TYPE: integer
 */
 #define SOME_DEFINITION 42
