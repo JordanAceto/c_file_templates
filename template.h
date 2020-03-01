@@ -62,7 +62,7 @@ typedef struct Demo_Struct_Type
 
 /*
 --| NAME: SOME_CONSTANT_ui16
---| DESCRIPTION: an arbitrary constant a demo
+--| DESCRIPTION: an arbitrary constant as a demo
 --| TYPE: uint16_t
 */
 const uint16_t SOME_CONSTANT_ui16 = 42;
